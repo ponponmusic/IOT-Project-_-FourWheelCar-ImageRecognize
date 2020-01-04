@@ -71,3 +71,9 @@
 * 可以加上避障模組,使之快碰壁時可以轉向之類
 * 可以從拍照偵測目標物轉變為錄影方式直接偵測
 * 可以若是非本人接近,使用蜂鳴器發出聲音
+
+## 10.參考資料
+* https://pinout.xyz/
+* https://blog.csdn.net/hustsselbj/article/details/45889527
+* http://hophd.com/raspberry-pi-remote-car-hardware/
+* https://keras.io/examples/cifar10_cnn/
