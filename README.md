@@ -19,6 +19,7 @@
 * 8條單芯線 (目的:連接直流減速電機馬達與L298N)
 * 四條母對母杜邦線 (目的:連接Rasberry Pi與L298N,傳達指令)
 * 一條公對母杜邦線 (目的:連接Rasberry Pi與L298N,輸入5V電壓)
+* Micro USB傳輸線
 * 四個直流減速電機
 * 一套雙層四驅自走車底盤(包含四顆輪胎)
 * 捆線帶 (目的:捆住單芯線與杜邦線)
@@ -33,6 +34,6 @@
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/DC%20geared%20motor.png" width = "45%" height = "45%"/>
 
 ## 6. 線路設計與指令表
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "50%" height = "50%"/>
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Command%20Table.jpg" width = "50%" height = "50%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "75%" height = "75%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Command%20Table.jpg" width = "75%" height = "75%"/>
 
