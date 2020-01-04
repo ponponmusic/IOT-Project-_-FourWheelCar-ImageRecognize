@@ -57,8 +57,8 @@
 * model.json
 
 ## 8. 影片呈現連結
-https://youtu.be/jYPKu4qlEhM
-https://youtu.be/rr9BEdd6IZE
+* https://youtu.be/jYPKu4qlEhM
+* https://youtu.be/rr9BEdd6IZE
 
 ## 9. 可以改進或其他發想
 * dataset可以使用各種不同角度的物體照片,這樣predict才能更精確
