@@ -27,13 +27,34 @@
 * 筆電
 
 ## 5. 材料細節
-* L298N馬達驅動模組
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "45%" height = "45%"/>
+* **L298N馬達驅動模組**
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/L298N.png" width = "45%" height = "45%"/>
 
-* 直流減速電機
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/DC%20geared%20motor.png" width = "45%" height = "45%"/>
+* **直流減速電機**
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/DC%20geared%20motor.png" width = "45%" height = "45%"/>
 
 ## 6. 線路設計與指令表
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "75%" height = "75%"/>
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Command%20Table.jpg" width = "75%" height = "75%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/FourWheelCar.png" width = "75%" height = "75%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/Command%20Table.jpg" width = "75%" height = "75%"/>
 
+## 7. 程式設計
+`00.PerOperation`
+* data___________________# DataGenerator檔生出來的照片
+   * class0 (一堆皮丘照片,但只有正面照)
+   * class1 (一堆小熊跟維尼照片,但只有正面照)
+* 00.DataGenerator.py_____# ImageDataGenerator生成照片
+* 01.GetData.py___________# cv2將照片轉numpy array,以及resize ,再吐出data與label的pickle檔(X.pickle/y.pickle)
+* 02.CNN_model.py___________# 用X.pickle/y.pickle train CNN model ,再吐出json以及h5檔
+* 03.ReadModel_predict.py_____# load model以及test predict
+
+`01.FourWheelCar_ImageRecognize`
+* CarClass.py_______# 執行車子指令(B,BR,R,F,BL,L,F,S)
+* ImagePredict.py_____# load model&predict the image
+* main.py_____# import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
+* model.h5
+* model.json
+
+## 8. 影片呈現
+
+
+## 9. 可以改進或其他發想
