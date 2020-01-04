@@ -27,7 +27,10 @@
 
 ## 5. 材料細節
 * L298N馬達驅動模組
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "50%" height = "50%"/>
-![image](https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png 80%)
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "30%" height = "30%"/>
+* 直流減速電機
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/%E7%9B%B4%E6%B5%81%E6%B8%9B%E9%80%9F%E9%9B%BB%E6%A9%9F.png" width = "30%" height = "30%"/>
 
+## 6. 線路設計
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "30%" height = "30%"/>
 
