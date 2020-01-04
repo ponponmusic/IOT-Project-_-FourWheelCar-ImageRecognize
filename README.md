@@ -48,9 +48,10 @@
 * 03.ReadModel_predict.py # load model以及test predict
 
 `01.FourWheelCar_ImageRecognize`
-* CarClass.py
-* ImagePredict.py
-* main.py          # import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
+* CarClass.py             # 執行車子指令(B,BR,R,F,BL,L,F,S)
+* ImagePredict.py         # load model&predict the image
+* main.py                 # import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
 * model.h5
 * model.json
 
+## 8. 影片呈現
