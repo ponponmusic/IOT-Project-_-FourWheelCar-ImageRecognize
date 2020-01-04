@@ -40,10 +40,10 @@
 ## 7. 程式設計
 
 
-|`00.PerOperation`|
+| `00.PerOperation` |
 | ------------- |:-------------:|
-|* data |# DataGenerator檔生出來的照片|
-|* 00.DataGenerator.py |# ImageDataGenerator生成照片|
+| * data | # DataGenerator檔生出來的照片 |
+| * 00.DataGenerator.py | # ImageDataGenerator生成照片 |
 | 斑馬條紋      | 是整齊的      |
 
 
