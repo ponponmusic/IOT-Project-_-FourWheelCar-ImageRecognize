@@ -27,13 +27,15 @@
 * 筆電
 
 ## 5. 材料細節
-* L298N馬達驅動模組
+* **L298N馬達驅動模組**
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/L298N.png" width = "45%" height = "45%"/>
 
-* 直流減速電機
+* **直流減速電機**
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/DC%20geared%20motor.png" width = "45%" height = "45%"/>
 
 ## 6. 線路設計與指令表
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/FourWheelCar.png" width = "75%" height = "75%"/>
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/Command%20Table.jpg" width = "75%" height = "75%"/>
+
+## 7. 程式設計
 
