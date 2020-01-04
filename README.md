@@ -38,11 +38,20 @@
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/Command%20Table.jpg" width = "75%" height = "75%"/>
 
 ## 7. 程式設計
-`00.PerOperation`
-* data&nbsp;&nbsp;&nbsp;&nbsp;# DataGenerator檔生出來的照片
+
+
+|`00.PerOperation`|
+| ------------- |:-------------:|
+|* data |# DataGenerator檔生出來的照片|
+|* 00.DataGenerator.py |# ImageDataGenerator生成照片|
+| 斑馬條紋      | 是整齊的      |
+
+
+
+* data                    # DataGenerator檔生出來的照片
    * class0 (一堆皮丘照片,但只有正面照)
    * class1 (一堆小熊跟維尼照片,但只有正面照)
-* 00.DataGenerator.py&nbsp;# ImageDataGenerator生成照片
+* 00.DataGenerator.py     # ImageDataGenerator生成照片
 * 01.GetData.py           # cv2將照片轉numpy array,以及resize ,再吐出data與label的pickle檔(X.pickle/y.pickle)
 * 02.CNN_model.py         # 用X.pickle/y.pickle train CNN model ,再吐出json以及h5檔
 * 03.ReadModel_predict.py # load model以及test predict
