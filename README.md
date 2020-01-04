@@ -33,10 +33,11 @@
 * **直流減速電機**
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/DC%20geared%20motor.png" width = "45%" height = "45%"/>
 
-## 6. 線路設計與指令表
+## 6. 線路設計,指令表與實體照片
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar.png" width = "75%" height = "75%"/>
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/Command%20Table.jpg" width = "75%" height = "75%"/>
-
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar01.jpg" width = "75%" height = "75%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar02.jpg" width = "75%" height = "75%"/>
 ## 7. 程式設計
 `00.PerOperation`
 * data___________________# DataGenerator檔生出來的照片
@@ -54,7 +55,7 @@
 * model.h5
 * model.json
 
-## 8. 影片呈現
+## 8. 影片呈現連結
 
 
 ## 9. 可以改進或其他發想
