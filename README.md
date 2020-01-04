@@ -38,4 +38,19 @@
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures/Command%20Table.jpg" width = "75%" height = "75%"/>
 
 ## 7. 程式設計
+`00.PerOperation`
+* data
+   * class0
+   * class1
+* 00.DataGenerator.py
+* 01.GetData.py
+* 02.CNN_model.py
+* 03.ReadModel_predict.py
+
+`01.FourWheelCar_ImageRecognize`
+* CarClass.py
+* ImagePredict.py
+* main.py
+* model.h5
+* model.json
 
