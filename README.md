@@ -38,6 +38,7 @@
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/Command%20Table.jpg" width = "75%" height = "75%"/>
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar01.jpg" width = "75%" height = "75%"/>
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar02.jpg" width = "75%" height = "75%"/>
+
 ## 7. 程式設計
 `00.PerOperation`
 * data___________________# DataGenerator檔生出來的照片
@@ -56,6 +57,11 @@
 * model.json
 
 ## 8. 影片呈現連結
-
+https://youtu.be/jYPKu4qlEhM
+https://youtu.be/rr9BEdd6IZE
 
 ## 9. 可以改進或其他發想
+* dataset可以使用各種不同角度的物體照片,這樣predict才能更精確
+* 車子位於地板上導致鏡頭過低,可以用支架提高它的拍攝角度
+* 可以加上避障模組,使之快碰壁時可以轉向之類
+* 可以從拍照偵測目標物轉變為錄影方式直接偵測
