@@ -27,6 +27,7 @@
 
 ## 5. 材料細節
 * L298N馬達驅動模組
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "50%" height = "50%"/>
 ![image](https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png 80%)
 
 
