@@ -40,6 +40,9 @@
 <img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Markdown%20Pictures_Videos/FourWheelCar02.jpg" width = "75%" height = "75%"/>
 
 ## 7. 程式設計
+
+`Requirements.txt` # modules versions
+
 `00.PerOperation`
 * data___________________# DataGenerator檔生出來的照片
    * class0 (一堆皮丘照片,但只有正面照)
