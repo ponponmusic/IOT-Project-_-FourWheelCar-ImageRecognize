@@ -44,13 +44,13 @@
    * class1 (一堆小熊跟維尼照片,但只有正面照)
 * 00.DataGenerator.py_____# ImageDataGenerator生成照片
 * 01.GetData.py___________# cv2將照片轉numpy array,以及resize ,再吐出data與label的pickle檔(X.pickle/y.pickle)
-* 02.CNN_model.py_________# 用X.pickle/y.pickle train CNN model ,再吐出json以及h5檔
-* 03.ReadModel_predict.py_# load model以及test predict
+* 02.CNN_model.py___________# 用X.pickle/y.pickle train CNN model ,再吐出json以及h5檔
+* 03.ReadModel_predict.py_____# load model以及test predict
 
 `01.FourWheelCar_ImageRecognize`
-* CarClass.py             # 執行車子指令(B,BR,R,F,BL,L,F,S)
-* ImagePredict.py         # load model&predict the image
-* main.py                 # import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
+* CarClass.py_______# 執行車子指令(B,BR,R,F,BL,L,F,S)
+* ImagePredict.py_____# load model&predict the image
+* main.py_____# import CarClass和ImagePredict ,如果ImagePredict回傳class1, CarClass對車子進行指令
 * model.h5
 * model.json
 
