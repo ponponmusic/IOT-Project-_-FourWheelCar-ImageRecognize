@@ -1,4 +1,4 @@
-# IOT-Project-_-零食防偷車
+# IOT-Project______零食防偷車______
 
 ## 1. 關於專案
 將零食放置在四驅車上，透過鏡頭拍攝回傳的照片，去偵測是否本人接近，若是非本人接近，四驅車直接往其他方向逃離。
@@ -27,10 +27,12 @@
 
 ## 5. 材料細節
 * L298N馬達驅動模組
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "30%" height = "30%"/>
-* 直流減速電機
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/%E7%9B%B4%E6%B5%81%E6%B8%9B%E9%80%9F%E9%9B%BB%E6%A9%9F.png" width = "30%" height = "30%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/L298N.png" width = "45%" height = "45%"/>
 
-## 6. 線路設計
-<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "30%" height = "30%"/>
+* 直流減速電機
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/DC%20geared%20motor.png" width = "45%" height = "45%"/>
+
+## 6. 線路設計與指令表
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/FourWheelCar.png" width = "50%" height = "50%"/>
+<img src="https://github.com/ponponmusic/IOT-Project-_-FourWheelCar-ImageRecognize/blob/master/Command%20Table.jpg" width = "50%" height = "50%"/>
 
