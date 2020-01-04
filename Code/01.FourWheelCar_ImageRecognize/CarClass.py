@@ -1,12 +1,6 @@
 import RPi.GPIO as GPIO
 import time
  
-LEFT_BEHIND_1 = 31
-LEFT_BEHIND_2 = 33
- 
-RIGHT_BEHIND_1 = 35
-RIGHT_BEHIND_2 = 37
-
 class FourWheelDriveCar():
     # Define the number of all the GPIO that will used for the 4wd car
  
