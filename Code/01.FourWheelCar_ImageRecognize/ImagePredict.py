@@ -15,9 +15,8 @@ warnings.filterwarnings('ignore')
 
 class ImagePredict():    
        
-    def __init__(self,path):
+    def __init__(self):
         
-        self.path = path
         self.model = self.loadModel()
     
     def loadModel(self):
@@ -34,11 +33,11 @@ class ImagePredict():
         
         return loaded_model
         
-    def dataTest(self):
+    def dataTest(self,path):
 
         IMG_SIZE = 50
            
-        test_image = image.load_img(self.path, target_size = (IMG_SIZE, IMG_SIZE))
+        test_image = image.load_img(path, target_size = (IMG_SIZE, IMG_SIZE))
         test_image = image.img_to_array(test_image)
         test_image = np.expand_dims(test_image, axis = 0)
         test_image = np.array(test_image).reshape(-1, IMG_SIZE, IMG_SIZE, 1)
